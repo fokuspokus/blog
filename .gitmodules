@@ -3,4 +3,4 @@
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "public"]
 	path = public
-	url = https://github.com/fokuspokus/eppieapp.github.io
+	url = https://github.com/eppieapp/eppieapp.github.io
