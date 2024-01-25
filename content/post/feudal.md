@@ -5,7 +5,7 @@ draft = true
 summary = 'As bizarre as it sounds, privacy is the very concept that makes modern web look somewhat like feudalism.'
 +++
 
-{{< figure src="/codex.png" caption="Photo by [Jonathan Kemper](https://unsplash.com/@jupp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/)" >}}
+{{< figure src="/codex.png" >}}
 
 Hi there, fellow tech enthusiasts!
 
